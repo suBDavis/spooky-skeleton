@@ -1,5 +1,6 @@
 # spooky-skeleton
 ###### Don't let the spooky skeleton catch steve.  Get 'em diamonds.  Game made for COMP 541 by Brandon Davis
+The only real spooky stuff is spoky stuff that is real spooky.
 
 ## Controls
 * up, down, left, right to move.
